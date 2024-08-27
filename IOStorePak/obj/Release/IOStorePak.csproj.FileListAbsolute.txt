@@ -1,0 +1,12 @@
+T:\Code\Source\IOStorePak\IOStorePak\bin\Release\IOStorePak.exe.config
+T:\Code\Source\IOStorePak\IOStorePak\bin\Release\IOStorePak.exe
+T:\Code\Source\IOStorePak\IOStorePak\bin\Release\IOStorePak.pdb
+T:\Code\Source\IOStorePak\IOStorePak\bin\Release\Newtonsoft.Json.dll
+T:\Code\Source\IOStorePak\IOStorePak\bin\Release\Newtonsoft.Json.xml
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.Properties.Resources.resources
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.csproj.GenerateResource.cache
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.csproj.CoreCompileInputs.cache
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.csproj.CopyComplete
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.exe
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.pdb
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.csproj.AssemblyReference.cache

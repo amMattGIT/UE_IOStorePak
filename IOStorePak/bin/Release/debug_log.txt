@@ -1,0 +1,300 @@
+27/08/2024 15.02.21: Starting package process...
+27/08/2024 15.02.21: Cleaned and recreated directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content
+27/08/2024 15.02.21: Selected folder with assets: T:\Modding\Gotham Knights\Modules\Weather\Sunny\_Reverted_package\GothamDays_P\Mercury\Content
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay
+27/08/2024 15.02.21: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF.uasset
+27/08/2024 15.02.21: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE.uexp
+27/08/2024 15.02.21: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF.uexp
+27/08/2024 15.02.21: Written pakchunk entries to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\TmpPackaging\WindowsNoEditor\pakchunk114.txt
+27/08/2024 15.02.21: Created pakchunklist.txt at: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\TmpPackaging\WindowsNoEditor\pakchunklist.txt
+27/08/2024 15.02.21: Modified DefaultGame.ini with necessary configurations.
+27/08/2024 15.02.21: Running UAT with arguments: BuildCookRun -project="T:\Modding\Gotham Knights\Kitchen\Test2\Test2.uproject" -skipcook -pak -iostore -skipstage
+27/08/2024 15.02.31: UAT process completed.
+27/08/2024 15.02.31: Opened output folder: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\StagedBuilds\WindowsNoEditor\Test2\Content\Paks
+27/08/2024 15.11.57: Starting package process...
+27/08/2024 15.11.57: Cleaned and recreated directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content
+27/08/2024 15.11.57: Selected folder with assets: T:\Modding\Gotham Knights\Modules\Weather\Sunny\_Reverted_package\GothamDays_P\Mercury\Content
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay
+27/08/2024 15.11.57: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF.uasset
+27/08/2024 15.11.57: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE.uexp
+27/08/2024 15.11.57: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF.uexp
+27/08/2024 15.11.57: Written pakchunk entries to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\TmpPackaging\WindowsNoEditor\pakchunk112.txt
+27/08/2024 15.11.57: Created pakchunklist.txt at: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\TmpPackaging\WindowsNoEditor\pakchunklist.txt
+27/08/2024 15.11.57: Modified DefaultGame.ini with necessary configurations.
+27/08/2024 15.11.57: Running UAT with arguments: BuildCookRun -project="T:\Modding\Gotham Knights\Kitchen\Test2\Test2.uproject" -skipcook -pak -iostore -skipstage
+27/08/2024 15.11.57: UAT process completed.
+27/08/2024 15.11.57: Opened output folder: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\StagedBuilds\WindowsNoEditor\Test2\Content\Paks
+27/08/2024 15.13.06: Starting package process...
+27/08/2024 15.13.06: Cleaned and recreated directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content
+27/08/2024 15.13.06: Selected folder with assets: T:\Modding\Gotham Knights\Modules\Weather\Sunny\_Reverted_package\GothamDays_P\Mercury\Content
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay
+27/08/2024 15.13.06: Created directory: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF.uasset
+27/08/2024 15.13.06: Added to pakchunk list: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunnyDay_Menu.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\M_SkyDome_SunsetDay.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunnyDay_C.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\LA\Global\Skies\SunnyDay\SkyDome_SunsetDay_C.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Afternoon.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Overcast.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Raimi.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\lut\LUT_Warm.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\DaylightAmbientCubemap.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\MapTemplates\Sky\SunsetAmbientCubemap.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Fog\FogConfig_SunnyDayLightPatchy_OW.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_MercuryEntry.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_GreyDay.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\PostProcess\PP_OW_SunnyDay.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunnyDay.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\Sky\DEV_Sky_SunsetDay.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_MercuryEntry.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_A.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M2.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M5.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_Exit_M6.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyA.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyB.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyC.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyD.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyE.uexp
+27/08/2024 15.13.06: Copied asset to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content\Systems\Weather\WeatherPresets\WeatherPreset_OW_SkyF.uexp
+27/08/2024 15.13.06: Written pakchunk entries to: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\TmpPackaging\WindowsNoEditor\pakchunk112.txt
+27/08/2024 15.13.06: Created pakchunklist.txt at: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\TmpPackaging\WindowsNoEditor\pakchunklist.txt
+27/08/2024 15.13.06: Modified DefaultGame.ini with necessary configurations.
+27/08/2024 15.13.06: Running UAT with arguments: BuildCookRun -project="T:\Modding\Gotham Knights\Kitchen\Test2\Test2.uproject" -skipcook -pak -iostore -skipstage
+27/08/2024 15.13.06: UAT process completed.
+27/08/2024 15.13.06: Opened output folder: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\StagedBuilds\WindowsNoEditor\Test2\Content\Paks
