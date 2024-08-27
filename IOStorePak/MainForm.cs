@@ -12,6 +12,7 @@ namespace IOStorePak
     public partial class MainForm : Form
     {
         private string configFilePath = "config.json";
+        private string logFilePath = "IOStorePak.log";
 
         public MainForm()
         {
@@ -67,6 +68,14 @@ namespace IOStorePak
         {
             // Save the configuration when the form is closing
             SaveConfig();
+        }
+
+        private void Log(string message)
+        {
+            if (chkDebug.Checked)
+            {
+                File.AppendAllText(logFilePath, $"{DateTime.Now}: {message}\n");
+            }
         }
 
         private string BrowseForFolderModern()
@@ -206,6 +215,8 @@ namespace IOStorePak
                 chkCleanCooked.Checked = config.CleanCookedFolder;
                 chkOpenOutput.Checked = config.OpenOutputFolder;
                 chkDarkMode.Checked = config.DarkMode;
+                chkDebug.Checked = config.DebugMode;
+                chkCleanOutput.Checked = config.CleanOutputFolder;
             }
         }
 
@@ -217,7 +228,9 @@ namespace IOStorePak
                 UnrealProjectPath = txtProjectPath.Text,
                 CleanCookedFolder = chkCleanCooked.Checked,
                 OpenOutputFolder = chkOpenOutput.Checked,
-                DarkMode = chkDarkMode.Checked
+                DarkMode = chkDarkMode.Checked,
+                DebugMode = chkDebug.Checked,
+                CleanOutputFolder = chkCleanOutput.Checked
             };
             File.WriteAllText(configFilePath, JsonConvert.SerializeObject(config));
         }
@@ -241,6 +254,11 @@ namespace IOStorePak
             string pakchunk0Path = Path.Combine(tmpPackagingWindowsPath, "pakchunk0.txt");
             string pakchunkLayersPath = Path.Combine(tmpPackagingWindowsPath, "pakchunklayers.txt");
 
+            Log("Starting packaging process...");
+            Log($"Unreal Engine Path: {txtUEPath.Text}");
+            Log($"Project Path: {txtProjectPath.Text}");
+            Log($"Cooked Base Path: {cookedBasePath}");
+
             // Ensure the TmpPackaging and TmpPackaging\WindowsNoEditor directories exist
             if (!Directory.Exists(tmpPackagingPath))
             {
@@ -262,12 +280,25 @@ namespace IOStorePak
             {
                 Directory.Delete(cookedBasePath, true);
                 Directory.CreateDirectory(cookedBasePath);
+                Log("Cleaned Cooked folder.");
             }
 
             // Ensure the destination directories exist
             if (!Directory.Exists(cookedBasePath))
             {
                 Directory.CreateDirectory(cookedBasePath);
+            }
+
+            // Clean the Output folder if the checkbox is checked
+            if (chkCleanOutput.Checked)
+            {
+                string outputFolderPath = Path.Combine(projectDir, "Saved", "StagedBuilds", "WindowsNoEditor", projectDirName, "Content", "Paks");
+                if (Directory.Exists(outputFolderPath))
+                {
+                    Directory.Delete(outputFolderPath, true);
+                    Directory.CreateDirectory(outputFolderPath);
+                    Log("Cleaned Output folder.");
+                }
             }
 
             // Initialize a list for the pakchunk file entries
@@ -317,39 +348,52 @@ namespace IOStorePak
 
             // Write the pakchunk entries to the .txt file
             File.WriteAllLines(pakchunkPath, pakchunkEntries);
+            Log($"Created pakchunk{txtChunkNumber.Text}.txt with {pakchunkEntries.Count} entries.");
 
             // Create the pakchunklist.txt file with required entries
             var pakchunkListEntries = new List<string>
-    {
-        "pakchunk0.txt",
-        $"pakchunk{txtChunkNumber.Text}.txt"
-    };
+            {
+                "pakchunk0.txt",
+                $"pakchunk{txtChunkNumber.Text}.txt"
+            };
             File.WriteAllLines(pakchunkListPath, pakchunkListEntries);
+            Log("Created pakchunklist.txt.");
 
             // Create the pakchunklayers.txt file with a "0" for each pakchunk
             var pakchunkLayersEntries = pakchunkListEntries.Select(_ => "0").ToList();
             File.WriteAllLines(pakchunkLayersPath, pakchunkLayersEntries);
+            Log("Created pakchunklayers.txt.");
 
             // Modify DefaultGame.ini to enable chunking
             string defaultGameIniPath = Path.Combine(projectDir, "Config", "DefaultGame.ini");
             EnsureDefaultGameIniConfig(defaultGameIniPath);
+            Log("Modified DefaultGame.ini for chunking.");
 
             // Run the UAT command with visible window
             string runUAT = Path.Combine(txtUEPath.Text, "Engine", "Build", "BatchFiles", "RunUAT.bat");
             string arguments = $"BuildCookRun -project=\"{txtProjectPath.Text}\" -skipcook -pak -iostore -skipstage";
+
+            if (chkDebug.Checked)
+            {
+                arguments += " & pause";  // Keep UAT window open
+                Log("Running UAT in debug mode with pause.");
+            }
+
             var processInfo = new ProcessStartInfo(runUAT, arguments)
             {
-                CreateNoWindow = false,  // Make sure this is set to false to show the window
+                CreateNoWindow = !chkDebug.Checked,  // Show window if debugging
                 UseShellExecute = true,  // Set to true to make the window visible
             };
             var process = Process.Start(processInfo);
             process.WaitForExit();
+            Log("UAT process finished.");
 
             // Open the folder with the packaged assets if checkbox is checked
             if (chkOpenOutput.Checked)
             {
                 string outputPath = Path.Combine(projectDir, "Saved", "StagedBuilds", "WindowsNoEditor", projectDirName, "Content", "Paks");
                 Process.Start("explorer.exe", outputPath);
+                Log("Opened Output folder.");
             }
 
             // Show a "Done" message box
@@ -357,6 +401,7 @@ namespace IOStorePak
 
             // Save the configuration on close
             SaveConfig();
+            Log("Configuration saved.");
         }
 
         private void EnsureDefaultGameIniConfig(string iniFilePath)
@@ -370,52 +415,52 @@ namespace IOStorePak
 
             var lines = File.ReadAllLines(iniFilePath).ToList();
             var configEntries = new List<string>
-    {
-        "[/Script/UnrealEd.ProjectPackagingSettings]",
-        "Build=IfProjectHasCode",
-        "BuildConfiguration=PPBC_Shipping",
-        "BuildTarget=",
-        "FullRebuild=False",
-        "ForDistribution=False",
-        "IncludeDebugFiles=False",
-        "BlueprintNativizationMethod=Disabled",
-        "bIncludeNativizedAssetsInProjectGeneration=False",
-        "bExcludeMonolithicEngineHeadersInNativizedCode=False",
-        "UsePakFile=True",
-        "bUseIoStore=True",
-        "bGenerateChunks=True",
-        "bGenerateNoChunks=False",
-        "bChunkHardReferencesOnly=False",
-        "bForceOneChunkPerFile=False",
-        "MaxChunkSize=0",
-        "bBuildHttpChunkInstallData=False",
-        "HttpChunkInstallDataDirectory=(Path=\"\")",
-        "PakFileCompressionFormats=",
-        "PakFileAdditionalCompressionOptions=",
-        "HttpChunkInstallDataVersion=",
-        "IncludePrerequisites=True",
-        "IncludeAppLocalPrerequisites=False",
-        "bShareMaterialShaderCode=True",
-        "bSharedMaterialNativeLibraries=True",
-        "ApplocalPrerequisitesDirectory=(Path=\"\")",
-        "IncludeCrashReporter=False",
-        "InternationalizationPreset=English",
-        "-CulturesToStage=en",
-        "+CulturesToStage=en",
-        "LocalizationTargetCatchAllChunkId=0",
-        "bCookAll=False",
-        "bCookMapsOnly=False",
-        "bCompressed=False",
-        "bSkipEditorContent=False",
-        "bSkipMovies=True",
-        "",
-        "[/Script/Engine.AssetManagerSettings]",
-        "bOnlyCookProductionAssets=False",
-        "bShouldManagerDetermineTypeAndName=False",
-        "bShouldGuessTypeAndNameInEditor=True",
-        "bShouldAcquireMissingChunksOnLoad=False",
-        "MetaDataTagsForAssetRegistry=()"
-    };
+            {
+                "[/Script/UnrealEd.ProjectPackagingSettings]",
+                "Build=IfProjectHasCode",
+                "BuildConfiguration=PPBC_Shipping",
+                "BuildTarget=",
+                "FullRebuild=False",
+                "ForDistribution=False",
+                "IncludeDebugFiles=False",
+                "BlueprintNativizationMethod=Disabled",
+                "bIncludeNativizedAssetsInProjectGeneration=False",
+                "bExcludeMonolithicEngineHeadersInNativizedCode=False",
+                "UsePakFile=True",
+                "bUseIoStore=True",
+                "bGenerateChunks=True",
+                "bGenerateNoChunks=False",
+                "bChunkHardReferencesOnly=False",
+                "bForceOneChunkPerFile=False",
+                "MaxChunkSize=0",
+                "bBuildHttpChunkInstallData=False",
+                "HttpChunkInstallDataDirectory=(Path=\"\")",
+                "PakFileCompressionFormats=",
+                "PakFileAdditionalCompressionOptions=",
+                "HttpChunkInstallDataVersion=",
+                "IncludePrerequisites=True",
+                "IncludeAppLocalPrerequisites=False",
+                "bShareMaterialShaderCode=True",
+                "bSharedMaterialNativeLibraries=True",
+                "ApplocalPrerequisitesDirectory=(Path=\"\")",
+                "IncludeCrashReporter=False",
+                "InternationalizationPreset=English",
+                "-CulturesToStage=en",
+                "+CulturesToStage=en",
+                "LocalizationTargetCatchAllChunkId=0",
+                "bCookAll=False",
+                "bCookMapsOnly=False",
+                "bCompressed=False",
+                "bSkipEditorContent=False",
+                "bSkipMovies=True",
+                "",
+                "[/Script/Engine.AssetManagerSettings]",
+                "bOnlyCookProductionAssets=False",
+                "bShouldManagerDetermineTypeAndName=False",
+                "bShouldGuessTypeAndNameInEditor=True",
+                "bShouldAcquireMissingChunksOnLoad=False",
+                "MetaDataTagsForAssetRegistry=()"
+            };
 
             // Check if each config entry is already present, if not, add it
             foreach (var entry in configEntries)
@@ -459,6 +504,16 @@ namespace IOStorePak
         private void btnBrowseAssetsPath_Click(object sender, EventArgs e)
         {
             ChooseSelectionType();
+        }
+
+        private void txtAssetsPath_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

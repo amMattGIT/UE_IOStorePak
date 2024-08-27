@@ -10,3 +10,4 @@ T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.csproj.CopyComplete
 T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.exe
 T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.pdb
 T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.csproj.AssemblyReference.cache
+T:\Code\Source\IOStorePak\IOStorePak\obj\Release\IOStorePak.MainForm.resources

@@ -7,5 +7,7 @@
         public bool CleanCookedFolder { get; set; }
         public bool OpenOutputFolder { get; set; }
         public bool DarkMode { get; set; }
+        public bool DebugMode { get; set; } 
+        public bool CleanOutputFolder { get; set; }
     }
 }
