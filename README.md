@@ -4,6 +4,8 @@ The purpose of this tool is to allow cooked assets to be packaged in the I/O Sto
 
 The nexus mods page for this tool is [here](https://www.nexusmods.com/gothamknights/mods/422).
 
+The old/previous archived repo for this tool is [here](https://github.com/amMattGIT/iostorepak).
+
 ## Requirements
 
 - A compiled build of Unreal Engine (4.25+ for Gotham Knights)
