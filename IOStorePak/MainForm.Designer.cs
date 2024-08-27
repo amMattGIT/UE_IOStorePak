@@ -84,7 +84,7 @@
             // 
             this.txtChunkNumber.Location = new System.Drawing.Point(93, 19);
             this.txtChunkNumber.Name = "txtChunkNumber";
-            this.txtChunkNumber.Size = new System.Drawing.Size(127, 20);
+            this.txtChunkNumber.Size = new System.Drawing.Size(138, 20);
             this.txtChunkNumber.TabIndex = 3;
             this.txtChunkNumber.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtChunkNumber_KeyPress);
             // 

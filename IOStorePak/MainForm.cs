@@ -40,7 +40,7 @@ namespace IOStorePak
                     else
                     {
                         control.BackColor = Color.Black;
-                        control.ForeColor = Color.WhiteSmoke;
+                        control.ForeColor = Color.White;
                     }
                 }
             }
@@ -52,7 +52,7 @@ namespace IOStorePak
                 {
                     if (control is TextBox || control is Button)
                     {
-                        control.BackColor = Color.WhiteSmoke;
+                        control.BackColor = Color.White;
                         control.ForeColor = Color.Black;
                     }
                     else
