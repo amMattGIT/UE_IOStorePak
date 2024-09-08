@@ -23,3 +23,115 @@
 27/08/2024 22.21.55: Running UAT in debug mode with pause.
 27/08/2024 22.22.05: UAT process finished.
 27/08/2024 22.23.10: Configuration saved.
+09/09/2024 00.05.33: Starting packaging process...
+09/09/2024 00.05.33: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.05.33: Project Path: T:\Modding\Gotham Knights\Kitchen\IOStorePak Project\Mercury\Mercury.uproject
+09/09/2024 00.05.33: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\IOStorePak Project\Mercury\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.05.33: Cleaned Cooked folder.
+09/09/2024 00.05.34: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.05.34: Created pakchunklist.txt.
+09/09/2024 00.05.34: Created pakchunklayers.txt.
+09/09/2024 00.05.34: Modified DefaultGame.ini for chunking.
+09/09/2024 00.05.34: Running UAT in debug mode with pause.
+09/09/2024 00.05.46: UAT process finished.
+09/09/2024 00.05.46: Opened Output folder.
+09/09/2024 00.05.47: Configuration saved.
+09/09/2024 00.05.59: Starting packaging process...
+09/09/2024 00.05.59: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.05.59: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.05.59: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.06.00: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.06.00: Created pakchunklist.txt.
+09/09/2024 00.06.00: Created pakchunklayers.txt.
+09/09/2024 00.06.00: Modified DefaultGame.ini for chunking.
+09/09/2024 00.06.00: Running UAT in debug mode with pause.
+09/09/2024 00.06.36: UAT process finished.
+09/09/2024 00.06.36: Opened Output folder.
+09/09/2024 00.06.40: Configuration saved.
+09/09/2024 00.35.14: Starting packaging process...
+09/09/2024 00.35.14: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.35.14: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.35.14: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.35.14: Cleaned Cooked folder.
+09/09/2024 00.35.14: Cleaned Output folder.
+09/09/2024 00.35.15: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.35.15: Created pakchunklist.txt.
+09/09/2024 00.35.15: Created pakchunklayers.txt.
+09/09/2024 00.35.15: Modified DefaultGame.ini for chunking.
+09/09/2024 00.35.15: Running UAT in debug mode with pause.
+09/09/2024 00.35.15: Compression enabled (-compress).
+09/09/2024 00.37.49: UAT process finished.
+09/09/2024 00.37.49: Opened Output folder.
+09/09/2024 00.37.53: Configuration saved.
+09/09/2024 00.39.07: Starting packaging process...
+09/09/2024 00.39.07: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.39.07: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.39.07: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.39.07: Cleaned Cooked folder.
+09/09/2024 00.39.07: Cleaned Output folder.
+09/09/2024 00.39.07: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.39.07: Created pakchunklist.txt.
+09/09/2024 00.39.07: Created pakchunklayers.txt.
+09/09/2024 00.39.07: Modified DefaultGame.ini for chunking.
+09/09/2024 00.39.07: Compression enabled (-compress).
+09/09/2024 00.39.07: Running UAT in debug mode with pause.
+09/09/2024 00.39.23: UAT process finished.
+09/09/2024 00.39.23: Opened Output folder.
+09/09/2024 00.39.31: Configuration saved.
+09/09/2024 00.43.10: Starting packaging process...
+09/09/2024 00.43.10: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.43.10: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.43.10: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.43.10: Cleaned Cooked folder.
+09/09/2024 00.43.10: Cleaned Output folder.
+09/09/2024 00.43.10: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.43.10: Created pakchunklist.txt.
+09/09/2024 00.43.10: Created pakchunklayers.txt.
+09/09/2024 00.43.10: Modified DefaultGame.ini for chunking.
+09/09/2024 00.43.10: Running UAT in debug mode with pause.
+09/09/2024 00.43.33: UAT process finished.
+09/09/2024 00.43.33: Opened Output folder.
+09/09/2024 00.43.37: Configuration saved.
+09/09/2024 00.44.18: Starting packaging process...
+09/09/2024 00.44.18: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.44.18: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.44.18: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.44.18: Cleaned Cooked folder.
+09/09/2024 00.44.18: Cleaned Output folder.
+09/09/2024 00.44.18: Created pakchunk.txt with 20 entries.
+09/09/2024 00.44.18: Created pakchunklist.txt.
+09/09/2024 00.44.18: Created pakchunklayers.txt.
+09/09/2024 00.44.18: Modified DefaultGame.ini for chunking.
+09/09/2024 00.44.18: Running UAT in debug mode with pause.
+09/09/2024 00.44.40: UAT process finished.
+09/09/2024 00.44.40: Opened Output folder.
+09/09/2024 00.44.44: Configuration saved.
+09/09/2024 00.47.28: Starting packaging process...
+09/09/2024 00.47.28: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.47.28: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.47.28: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.47.28: Cleaned Cooked folder.
+09/09/2024 00.47.28: Cleaned Output folder.
+09/09/2024 00.47.28: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.47.28: Created pakchunklist.txt.
+09/09/2024 00.47.28: Created pakchunklayers.txt.
+09/09/2024 00.47.28: Modified DefaultGame.ini for chunking.
+09/09/2024 00.47.28: Running UAT in debug mode with pause.
+09/09/2024 00.47.52: UAT process finished.
+09/09/2024 00.47.52: Opened Output folder.
+09/09/2024 00.47.57: Configuration saved.
+09/09/2024 00.48.39: Starting packaging process...
+09/09/2024 00.48.39: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
+09/09/2024 00.48.39: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+09/09/2024 00.48.39: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+09/09/2024 00.48.39: Cleaned Cooked folder.
+09/09/2024 00.48.39: Cleaned Output folder.
+09/09/2024 00.48.39: Created pakchunk98.txt with 20 entries.
+09/09/2024 00.48.39: Created pakchunklist.txt.
+09/09/2024 00.48.39: Created pakchunklayers.txt.
+09/09/2024 00.48.39: Modified DefaultGame.ini for chunking.
+09/09/2024 00.48.39: Compression enabled (-compressed).
+09/09/2024 00.48.39: Running UAT in debug mode with pause.
+09/09/2024 00.49.09: UAT process finished.
+09/09/2024 00.49.09: Opened Output folder.
+09/09/2024 00.49.22: Configuration saved.

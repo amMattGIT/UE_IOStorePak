@@ -138,7 +138,7 @@ namespace IOStorePak
                 Button btnSelectFiles = new Button() { Text = "Select Files", Location = new Point(20, 50), Size = new Size(80, 30) };
                 btnSelectFiles.Click += (s, e) =>
                 {
-                    var selectedFiles = BrowseForMultipleFiles("Unreal Asset Files (*.uasset;*.uexp)|*.uasset;*.uexp");
+                    var selectedFiles = BrowseForMultipleFiles("Unreal Asset Files (*.uasset;*.uexp;*.ubulk)|*.uasset;*.uexp;*.ubulk");
                     txtAssetsPath.Text = string.Join(";", selectedFiles);
                     choiceForm.Close();
                 };
@@ -217,6 +217,7 @@ namespace IOStorePak
                 chkDarkMode.Checked = config.DarkMode;
                 chkDebug.Checked = config.DebugMode;
                 chkCleanOutput.Checked = config.CleanOutputFolder;
+                chkCompression.Checked = config.EnableCompression;
             }
         }
 
@@ -230,7 +231,8 @@ namespace IOStorePak
                 OpenOutputFolder = chkOpenOutput.Checked,
                 DarkMode = chkDarkMode.Checked,
                 DebugMode = chkDebug.Checked,
-                CleanOutputFolder = chkCleanOutput.Checked
+                CleanOutputFolder = chkCleanOutput.Checked,
+                EnableCompression = chkCompression.Checked
             };
             File.WriteAllText(configFilePath, JsonConvert.SerializeObject(config));
         }
@@ -312,6 +314,8 @@ namespace IOStorePak
                 // User selected a folder, gather all .uasset and .uexp files
                 assetsPath.AddRange(Directory.GetFiles(txtAssetsPath.Text, "*.uasset", SearchOption.AllDirectories));
                 assetsPath.AddRange(Directory.GetFiles(txtAssetsPath.Text, "*.uexp", SearchOption.AllDirectories));
+                assetsPath.AddRange(Directory.GetFiles(txtAssetsPath.Text, "*.ubulk", SearchOption.AllDirectories));
+
             }
             else if (!string.IsNullOrEmpty(txtAssetsPath.Text))
             {
@@ -372,6 +376,12 @@ namespace IOStorePak
             // Run the UAT command with visible window
             string runUAT = Path.Combine(txtUEPath.Text, "Engine", "Build", "BatchFiles", "RunUAT.bat");
             string arguments = $"BuildCookRun -project=\"{txtProjectPath.Text}\" -skipcook -pak -iostore -skipstage";
+
+            if (chkCompression.Checked)
+            {
+                arguments += " -compressed";  // Add the compression argument
+                Log("Compression enabled (-compressed).");
+            }
 
             if (chkDebug.Checked)
             {
@@ -512,6 +522,11 @@ namespace IOStorePak
         }
 
         private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chkCleanOutput_CheckedChanged(object sender, EventArgs e)
         {
 
         }

@@ -12,6 +12,7 @@
         private System.Windows.Forms.CheckBox chkDarkMode;
         private System.Windows.Forms.CheckBox chkDebug;
         private System.Windows.Forms.CheckBox chkCleanOutput;
+        private System.Windows.Forms.CheckBox chkCompression;
         private System.Windows.Forms.Button btnPackage;
         private System.Windows.Forms.Button btnBrowseUEPath;
         private System.Windows.Forms.Button btnBrowseProjectPath;
@@ -44,6 +45,7 @@
             this.chkDarkMode = new System.Windows.Forms.CheckBox();
             this.chkDebug = new System.Windows.Forms.CheckBox();
             this.chkCleanOutput = new System.Windows.Forms.CheckBox();
+            this.chkCompression = new System.Windows.Forms.CheckBox();
             this.btnPackage = new System.Windows.Forms.Button();
             this.btnBrowseUEPath = new System.Windows.Forms.Button();
             this.btnBrowseProjectPath = new System.Windows.Forms.Button();
@@ -78,7 +80,6 @@
             this.txtAssetsPath.Name = "txtAssetsPath";
             this.txtAssetsPath.Size = new System.Drawing.Size(181, 20);
             this.txtAssetsPath.TabIndex = 2;
-            this.txtAssetsPath.TextChanged += new System.EventHandler(this.txtAssetsPath_TextChanged);
             // 
             // txtChunkNumber
             // 
@@ -132,17 +133,28 @@
             // chkCleanOutput
             // 
             this.chkCleanOutput.AutoSize = true;
-            this.chkCleanOutput.Location = new System.Drawing.Point(7, 43);
+            this.chkCleanOutput.Location = new System.Drawing.Point(7, 66);
             this.chkCleanOutput.Name = "chkCleanOutput";
             this.chkCleanOutput.Size = new System.Drawing.Size(208, 17);
-            this.chkCleanOutput.TabIndex = 1;
+            this.chkCleanOutput.TabIndex = 2;
             this.chkCleanOutput.Text = "Clean Output Folder Before Packaging";
             this.chkCleanOutput.UseVisualStyleBackColor = true;
+            this.chkCleanOutput.CheckedChanged += new System.EventHandler(this.chkCleanOutput_CheckedChanged);
+            // 
+            // chkCompression
+            // 
+            this.chkCompression.AutoSize = true;
+            this.chkCompression.Location = new System.Drawing.Point(7, 43);
+            this.chkCompression.Name = "chkCompression";
+            this.chkCompression.Size = new System.Drawing.Size(72, 17);
+            this.chkCompression.TabIndex = 1;
+            this.chkCompression.Text = "Compress";
+            this.chkCompression.UseVisualStyleBackColor = true;
             // 
             // btnPackage
             // 
             this.btnPackage.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPackage.Location = new System.Drawing.Point(12, 341);
+            this.btnPackage.Location = new System.Drawing.Point(12, 372);
             this.btnPackage.Name = "btnPackage";
             this.btnPackage.Size = new System.Drawing.Size(237, 23);
             this.btnPackage.TabIndex = 8;
@@ -220,9 +232,10 @@
             // 
             this.grpAdvancedSettings.Controls.Add(this.chkDebug);
             this.grpAdvancedSettings.Controls.Add(this.chkCleanOutput);
+            this.grpAdvancedSettings.Controls.Add(this.chkCompression);
             this.grpAdvancedSettings.Location = new System.Drawing.Point(12, 267);
             this.grpAdvancedSettings.Name = "grpAdvancedSettings";
-            this.grpAdvancedSettings.Size = new System.Drawing.Size(237, 68);
+            this.grpAdvancedSettings.Size = new System.Drawing.Size(237, 100);
             this.grpAdvancedSettings.TabIndex = 7;
             this.grpAdvancedSettings.TabStop = false;
             this.grpAdvancedSettings.Text = "Advanced";
@@ -243,7 +256,7 @@
             // 
             // MainForm
             // 
-            this.ClientSize = new System.Drawing.Size(261, 376);
+            this.ClientSize = new System.Drawing.Size(261, 403);
             this.Controls.Add(this.btnPackage);
             this.Controls.Add(this.grpRegularSettings);
             this.Controls.Add(this.grpAdvancedSettings);
