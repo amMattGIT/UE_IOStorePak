@@ -72,6 +72,10 @@ Starts packaging the assets. The Unreal Automation tool is used for this, meanin
 
 Creates a logfile called `IOStorePak.log` in the root of the application. The log includes entries for each action performed by the tool. Also sets the UAT shell window to stay open, allowing the user to inspect the UAT process.
 
+#### Compress
+
+Compresses the packaged files, resulting in a smaller file size.
+
 #### Clean Output Folder Before Packaging
 
 Will clean out the `Saved\StagedBuild` folder in your project, deleting previous packages.
