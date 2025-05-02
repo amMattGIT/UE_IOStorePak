@@ -13,6 +13,10 @@ namespace IOStorePak
     {
         private string configFilePath = "config.json";
         private string logFilePath = "IOStorePak.log";
+        private string GetPlatformName()
+        {
+            return chkUseUE5.Checked ? "Windows" : "WindowsNoEditor";
+        }
 
         public MainForm()
         {
@@ -218,6 +222,7 @@ namespace IOStorePak
                 chkDebug.Checked = config.DebugMode;
                 chkCleanOutput.Checked = config.CleanOutputFolder;
                 chkCompression.Checked = config.EnableCompression;
+                chkUseUE5.Checked = config.UseUE5;
             }
         }
 
@@ -232,7 +237,8 @@ namespace IOStorePak
                 DarkMode = chkDarkMode.Checked,
                 DebugMode = chkDebug.Checked,
                 CleanOutputFolder = chkCleanOutput.Checked,
-                EnableCompression = chkCompression.Checked
+                EnableCompression = chkCompression.Checked,
+                UseUE5 = chkUseUE5.Checked
             };
             File.WriteAllText(configFilePath, JsonConvert.SerializeObject(config));
         }
@@ -248,14 +254,15 @@ namespace IOStorePak
 
             string projectDir = Path.GetDirectoryName(txtProjectPath.Text);
             string projectDirName = Path.GetFileNameWithoutExtension(txtProjectPath.Text);
-            string cookedBasePath = Path.Combine(projectDir, "Saved", "Cooked", "WindowsNoEditor", projectDirName, "Content");
+            string cookedBasePath = Path.Combine(projectDir, "Saved", "Cooked", GetPlatformName(), projectDirName, "Content");
             string tmpPackagingPath = Path.Combine(projectDir, "Saved", "TmpPackaging");
-            string tmpPackagingWindowsPath = Path.Combine(tmpPackagingPath, "WindowsNoEditor");
+            string tmpPackagingWindowsPath = Path.Combine(tmpPackagingPath, GetPlatformName());
             string pakchunkPath = Path.Combine(tmpPackagingWindowsPath, $"pakchunk{txtChunkNumber.Text}.txt");
             string pakchunkListPath = Path.Combine(tmpPackagingWindowsPath, "pakchunklist.txt");
             string pakchunk0Path = Path.Combine(tmpPackagingWindowsPath, "pakchunk0.txt");
             string pakchunkLayersPath = Path.Combine(tmpPackagingWindowsPath, "pakchunklayers.txt");
 
+            Log($"Using platform name: {GetPlatformName()}");
             Log("Starting packaging process...");
             Log($"Unreal Engine Path: {txtUEPath.Text}");
             Log($"Project Path: {txtProjectPath.Text}");
@@ -294,7 +301,7 @@ namespace IOStorePak
             // Clean the Output folder if the checkbox is checked
             if (chkCleanOutput.Checked)
             {
-                string outputFolderPath = Path.Combine(projectDir, "Saved", "StagedBuilds", "WindowsNoEditor", projectDirName, "Content", "Paks");
+                string outputFolderPath = Path.Combine(projectDir, "Saved", "StagedBuilds", GetPlatformName(), projectDirName, "Content", "Paks");
                 if (Directory.Exists(outputFolderPath))
                 {
                     Directory.Delete(outputFolderPath, true);
@@ -401,7 +408,7 @@ namespace IOStorePak
             // Open the folder with the packaged assets if checkbox is checked
             if (chkOpenOutput.Checked)
             {
-                string outputPath = Path.Combine(projectDir, "Saved", "StagedBuilds", "WindowsNoEditor", projectDirName, "Content", "Paks");
+                string outputPath = Path.Combine(projectDir, "Saved", "StagedBuilds", GetPlatformName(), projectDirName, "Content", "Paks");
                 Process.Start("explorer.exe", outputPath);
                 Log("Opened Output folder.");
             }
@@ -527,6 +534,11 @@ namespace IOStorePak
         }
 
         private void chkCleanOutput_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chkUseUE5_CheckedChanged(object sender, EventArgs e)
         {
 
         }

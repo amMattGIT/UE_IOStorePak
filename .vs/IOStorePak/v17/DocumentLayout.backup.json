@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Code\\Source\\IOStorePak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.cs",
+              "RelativeDocumentMoniker": "IOStorePak\\MainForm.cs",
+              "ToolTip": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.cs",
+              "RelativeToolTip": "IOStorePak\\MainForm.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAiwAIBAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:25:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.cs",
+              "RelativeDocumentMoniker": "IOStorePak\\MainForm.cs",
+              "ToolTip": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.cs [Design]",
+              "RelativeToolTip": "IOStorePak\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:22:25.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\Config.cs",
+              "RelativeDocumentMoniker": "IOStorePak\\Config.cs",
+              "ToolTip": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\Config.cs",
+              "RelativeToolTip": "IOStorePak\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:18:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "IOStorePak\\MainForm.Designer.cs",
+              "ToolTip": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.Designer.cs",
+              "RelativeToolTip": "IOStorePak\\MainForm.Designer.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAQwAgBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:15:47.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

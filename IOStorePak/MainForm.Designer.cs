@@ -13,6 +13,7 @@
         private System.Windows.Forms.CheckBox chkDebug;
         private System.Windows.Forms.CheckBox chkCleanOutput;
         private System.Windows.Forms.CheckBox chkCompression;
+        private System.Windows.Forms.CheckBox chkUseUE5;
         private System.Windows.Forms.Button btnPackage;
         private System.Windows.Forms.Button btnBrowseUEPath;
         private System.Windows.Forms.Button btnBrowseProjectPath;
@@ -56,6 +57,7 @@
             this.lblChunkNumber = new System.Windows.Forms.Label();
             this.grpAdvancedSettings = new System.Windows.Forms.GroupBox();
             this.grpRegularSettings = new System.Windows.Forms.GroupBox();
+            this.chkUseUE5 = new System.Windows.Forms.CheckBox();
             this.grpAdvancedSettings.SuspendLayout();
             this.grpRegularSettings.SuspendLayout();
             this.SuspendLayout();
@@ -112,7 +114,7 @@
             // chkDarkMode
             // 
             this.chkDarkMode.AutoSize = true;
-            this.chkDarkMode.Location = new System.Drawing.Point(7, 91);
+            this.chkDarkMode.Location = new System.Drawing.Point(7, 114);
             this.chkDarkMode.Name = "chkDarkMode";
             this.chkDarkMode.Size = new System.Drawing.Size(79, 17);
             this.chkDarkMode.TabIndex = 2;
@@ -154,7 +156,7 @@
             // btnPackage
             // 
             this.btnPackage.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPackage.Location = new System.Drawing.Point(12, 372);
+            this.btnPackage.Location = new System.Drawing.Point(13, 397);
             this.btnPackage.Name = "btnPackage";
             this.btnPackage.Size = new System.Drawing.Size(237, 23);
             this.btnPackage.TabIndex = 8;
@@ -233,7 +235,7 @@
             this.grpAdvancedSettings.Controls.Add(this.chkDebug);
             this.grpAdvancedSettings.Controls.Add(this.chkCleanOutput);
             this.grpAdvancedSettings.Controls.Add(this.chkCompression);
-            this.grpAdvancedSettings.Location = new System.Drawing.Point(12, 267);
+            this.grpAdvancedSettings.Location = new System.Drawing.Point(12, 291);
             this.grpAdvancedSettings.Name = "grpAdvancedSettings";
             this.grpAdvancedSettings.Size = new System.Drawing.Size(237, 100);
             this.grpAdvancedSettings.TabIndex = 7;
@@ -242,6 +244,7 @@
             // 
             // grpRegularSettings
             // 
+            this.grpRegularSettings.Controls.Add(this.chkUseUE5);
             this.grpRegularSettings.Controls.Add(this.lblChunkNumber);
             this.grpRegularSettings.Controls.Add(this.txtChunkNumber);
             this.grpRegularSettings.Controls.Add(this.chkCleanCooked);
@@ -249,14 +252,25 @@
             this.grpRegularSettings.Controls.Add(this.chkDarkMode);
             this.grpRegularSettings.Location = new System.Drawing.Point(12, 140);
             this.grpRegularSettings.Name = "grpRegularSettings";
-            this.grpRegularSettings.Size = new System.Drawing.Size(237, 121);
+            this.grpRegularSettings.Size = new System.Drawing.Size(237, 145);
             this.grpRegularSettings.TabIndex = 18;
             this.grpRegularSettings.TabStop = false;
             this.grpRegularSettings.Text = "Settings";
             // 
+            // chkUseUE5
+            // 
+            this.chkUseUE5.AutoSize = true;
+            this.chkUseUE5.Location = new System.Drawing.Point(7, 91);
+            this.chkUseUE5.Name = "chkUseUE5";
+            this.chkUseUE5.Size = new System.Drawing.Size(124, 17);
+            this.chkUseUE5.TabIndex = 4;
+            this.chkUseUE5.Text = "UE 5 Format";
+            this.chkUseUE5.UseVisualStyleBackColor = true;
+            this.chkUseUE5.CheckedChanged += new System.EventHandler(this.chkUseUE5_CheckedChanged);
+            // 
             // MainForm
             // 
-            this.ClientSize = new System.Drawing.Size(261, 403);
+            this.ClientSize = new System.Drawing.Size(261, 431);
             this.Controls.Add(this.btnPackage);
             this.Controls.Add(this.grpRegularSettings);
             this.Controls.Add(this.grpAdvancedSettings);

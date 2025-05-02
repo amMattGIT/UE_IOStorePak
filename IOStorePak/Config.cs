@@ -10,5 +10,6 @@
         public bool DebugMode { get; set; }
         public bool CleanOutputFolder { get; set; }
         public bool EnableCompression { get; set; }
+        public bool UseUE5 { get; set; }
     }
 }
