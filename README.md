@@ -31,7 +31,7 @@ The path to the root of your Unreal Engine build, e.g., `T:\Tools\UnrealEngine\U
 
 The path to your `.uproject` file, e.g., `T:\Modding\Gotham Knights\Kitchen\Mercury\Mercury.uproject`.
 
-> **Note:** Project name doesn't matter, and neither do the contents of your project.
+> **Note:** To alleviate troubleshooting, I recommend naming the project the same as the game your modding + packaging once manually through the editor, before using this tool.
 
 #### Select Assets to Package
 
@@ -55,6 +55,10 @@ Will clean out the `Saved\Cooked` folder in your project, ensuring only the asse
 #### Open Output Folder After Packaging
 
 Will open the folder containing your packaged files after packaging completes.
+
+#### UE 5 Format
+
+Will use UE 5 format for packaging, instead of default (UE4).
 
 #### Dark Mode
 
