@@ -1,424 +1,192 @@
-27/08/2024 22.20.51: Starting packaging process...
-27/08/2024 22.20.51: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-27/08/2024 22.20.51: Project Path: T:\Modding\Gotham Knights\Kitchen\Test2\Test2.uproject
-27/08/2024 22.20.51: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content
-27/08/2024 22.20.51: Cleaned Cooked folder.
-27/08/2024 22.20.51: Cleaned Output folder.
-27/08/2024 22.20.51: Created pakchunk184.txt with 28 entries.
-27/08/2024 22.20.51: Created pakchunklist.txt.
-27/08/2024 22.20.51: Created pakchunklayers.txt.
-27/08/2024 22.20.51: Modified DefaultGame.ini for chunking.
-27/08/2024 22.20.51: Running UAT in debug mode with pause.
-27/08/2024 22.21.01: UAT process finished.
-27/08/2024 22.21.01: Opened Output folder.
-27/08/2024 22.21.07: Configuration saved.
-27/08/2024 22.21.54: Starting packaging process...
-27/08/2024 22.21.54: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-27/08/2024 22.21.54: Project Path: T:\Modding\Gotham Knights\Kitchen\Test2\Test2.uproject
-27/08/2024 22.21.54: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Test2\Saved\Cooked\WindowsNoEditor\Test2\Content
-27/08/2024 22.21.55: Created pakchunk165.txt with 28 entries.
-27/08/2024 22.21.55: Created pakchunklist.txt.
-27/08/2024 22.21.55: Created pakchunklayers.txt.
-27/08/2024 22.21.55: Modified DefaultGame.ini for chunking.
-27/08/2024 22.21.55: Running UAT in debug mode with pause.
-27/08/2024 22.22.05: UAT process finished.
-27/08/2024 22.23.10: Configuration saved.
-09/09/2024 00.05.33: Starting packaging process...
-09/09/2024 00.05.33: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.05.33: Project Path: T:\Modding\Gotham Knights\Kitchen\IOStorePak Project\Mercury\Mercury.uproject
-09/09/2024 00.05.33: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\IOStorePak Project\Mercury\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.05.33: Cleaned Cooked folder.
-09/09/2024 00.05.34: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.05.34: Created pakchunklist.txt.
-09/09/2024 00.05.34: Created pakchunklayers.txt.
-09/09/2024 00.05.34: Modified DefaultGame.ini for chunking.
-09/09/2024 00.05.34: Running UAT in debug mode with pause.
-09/09/2024 00.05.46: UAT process finished.
-09/09/2024 00.05.46: Opened Output folder.
-09/09/2024 00.05.47: Configuration saved.
-09/09/2024 00.05.59: Starting packaging process...
-09/09/2024 00.05.59: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.05.59: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.05.59: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.06.00: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.06.00: Created pakchunklist.txt.
-09/09/2024 00.06.00: Created pakchunklayers.txt.
-09/09/2024 00.06.00: Modified DefaultGame.ini for chunking.
-09/09/2024 00.06.00: Running UAT in debug mode with pause.
-09/09/2024 00.06.36: UAT process finished.
-09/09/2024 00.06.36: Opened Output folder.
-09/09/2024 00.06.40: Configuration saved.
-09/09/2024 00.35.14: Starting packaging process...
-09/09/2024 00.35.14: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.35.14: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.35.14: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.35.14: Cleaned Cooked folder.
-09/09/2024 00.35.14: Cleaned Output folder.
-09/09/2024 00.35.15: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.35.15: Created pakchunklist.txt.
-09/09/2024 00.35.15: Created pakchunklayers.txt.
-09/09/2024 00.35.15: Modified DefaultGame.ini for chunking.
-09/09/2024 00.35.15: Running UAT in debug mode with pause.
-09/09/2024 00.35.15: Compression enabled (-compress).
-09/09/2024 00.37.49: UAT process finished.
-09/09/2024 00.37.49: Opened Output folder.
-09/09/2024 00.37.53: Configuration saved.
-09/09/2024 00.39.07: Starting packaging process...
-09/09/2024 00.39.07: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.39.07: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.39.07: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.39.07: Cleaned Cooked folder.
-09/09/2024 00.39.07: Cleaned Output folder.
-09/09/2024 00.39.07: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.39.07: Created pakchunklist.txt.
-09/09/2024 00.39.07: Created pakchunklayers.txt.
-09/09/2024 00.39.07: Modified DefaultGame.ini for chunking.
-09/09/2024 00.39.07: Compression enabled (-compress).
-09/09/2024 00.39.07: Running UAT in debug mode with pause.
-09/09/2024 00.39.23: UAT process finished.
-09/09/2024 00.39.23: Opened Output folder.
-09/09/2024 00.39.31: Configuration saved.
-09/09/2024 00.43.10: Starting packaging process...
-09/09/2024 00.43.10: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.43.10: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.43.10: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.43.10: Cleaned Cooked folder.
-09/09/2024 00.43.10: Cleaned Output folder.
-09/09/2024 00.43.10: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.43.10: Created pakchunklist.txt.
-09/09/2024 00.43.10: Created pakchunklayers.txt.
-09/09/2024 00.43.10: Modified DefaultGame.ini for chunking.
-09/09/2024 00.43.10: Running UAT in debug mode with pause.
-09/09/2024 00.43.33: UAT process finished.
-09/09/2024 00.43.33: Opened Output folder.
-09/09/2024 00.43.37: Configuration saved.
-09/09/2024 00.44.18: Starting packaging process...
-09/09/2024 00.44.18: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.44.18: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.44.18: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.44.18: Cleaned Cooked folder.
-09/09/2024 00.44.18: Cleaned Output folder.
-09/09/2024 00.44.18: Created pakchunk.txt with 20 entries.
-09/09/2024 00.44.18: Created pakchunklist.txt.
-09/09/2024 00.44.18: Created pakchunklayers.txt.
-09/09/2024 00.44.18: Modified DefaultGame.ini for chunking.
-09/09/2024 00.44.18: Running UAT in debug mode with pause.
-09/09/2024 00.44.40: UAT process finished.
-09/09/2024 00.44.40: Opened Output folder.
-09/09/2024 00.44.44: Configuration saved.
-09/09/2024 00.47.28: Starting packaging process...
-09/09/2024 00.47.28: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.47.28: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.47.28: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.47.28: Cleaned Cooked folder.
-09/09/2024 00.47.28: Cleaned Output folder.
-09/09/2024 00.47.28: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.47.28: Created pakchunklist.txt.
-09/09/2024 00.47.28: Created pakchunklayers.txt.
-09/09/2024 00.47.28: Modified DefaultGame.ini for chunking.
-09/09/2024 00.47.28: Running UAT in debug mode with pause.
-09/09/2024 00.47.52: UAT process finished.
-09/09/2024 00.47.52: Opened Output folder.
-09/09/2024 00.47.57: Configuration saved.
-09/09/2024 00.48.39: Starting packaging process...
-09/09/2024 00.48.39: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus\
-09/09/2024 00.48.39: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-09/09/2024 00.48.39: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-09/09/2024 00.48.39: Cleaned Cooked folder.
-09/09/2024 00.48.39: Cleaned Output folder.
-09/09/2024 00.48.39: Created pakchunk98.txt with 20 entries.
-09/09/2024 00.48.39: Created pakchunklist.txt.
-09/09/2024 00.48.39: Created pakchunklayers.txt.
-09/09/2024 00.48.39: Modified DefaultGame.ini for chunking.
-09/09/2024 00.48.39: Compression enabled (-compressed).
-09/09/2024 00.48.39: Running UAT in debug mode with pause.
-09/09/2024 00.49.09: UAT process finished.
-09/09/2024 00.49.09: Opened Output folder.
-09/09/2024 00.49.22: Configuration saved.
-02/05/2025 01.32.16: Starting packaging process...
-02/05/2025 01.32.16: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 01.32.16: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel\Marvel.uproject
-02/05/2025 01.32.16: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 01.32.16: Created pakchunk424.txt with 1 entries.
-02/05/2025 01.32.16: Created pakchunklist.txt.
-02/05/2025 01.32.16: Created pakchunklayers.txt.
-02/05/2025 01.32.16: Modified DefaultGame.ini for chunking.
-02/05/2025 01.32.16: Compression enabled (-compressed).
-02/05/2025 01.32.16: Running UAT in debug mode with pause.
-02/05/2025 01.36.13: UAT process finished.
-02/05/2025 01.36.15: Configuration saved.
-02/05/2025 01.36.29: Starting packaging process...
-02/05/2025 01.36.29: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 01.36.29: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 01.36.29: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 01.36.29: Created pakchunk424.txt with 1 entries.
-02/05/2025 01.36.29: Created pakchunklist.txt.
-02/05/2025 01.36.29: Created pakchunklayers.txt.
-02/05/2025 01.36.29: Modified DefaultGame.ini for chunking.
-02/05/2025 01.36.29: Compression enabled (-compressed).
-02/05/2025 01.36.29: Running UAT in debug mode with pause.
-02/05/2025 01.39.57: UAT process finished.
-02/05/2025 01.40.17: Configuration saved.
-02/05/2025 01.40.52: Starting packaging process...
-02/05/2025 01.40.52: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 01.40.52: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 01.40.52: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 01.40.52: Created pakchunk423.txt with 1 entries.
-02/05/2025 01.40.52: Created pakchunklist.txt.
-02/05/2025 01.40.52: Created pakchunklayers.txt.
-02/05/2025 01.40.52: Modified DefaultGame.ini for chunking.
-02/05/2025 01.40.52: Compression enabled (-compressed).
-02/05/2025 01.40.52: Running UAT in debug mode with pause.
-02/05/2025 01.44.27: UAT process finished.
-02/05/2025 01.44.29: Configuration saved.
-02/05/2025 01.44.31: Starting packaging process...
-02/05/2025 01.44.31: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 01.44.31: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 01.44.31: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 01.44.31: Created pakchunk423.txt with 1 entries.
-02/05/2025 01.44.31: Created pakchunklist.txt.
-02/05/2025 01.44.31: Created pakchunklayers.txt.
-02/05/2025 01.44.31: Modified DefaultGame.ini for chunking.
-02/05/2025 01.44.31: Compression enabled (-compressed).
-02/05/2025 01.44.31: Running UAT in debug mode with pause.
-02/05/2025 01.44.49: UAT process finished.
-02/05/2025 01.44.50: Configuration saved.
-02/05/2025 01.44.56: Starting packaging process...
-02/05/2025 01.44.56: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 01.44.56: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 01.44.56: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 01.44.56: Created pakchunk423.txt with 1 entries.
-02/05/2025 01.44.56: Created pakchunklist.txt.
-02/05/2025 01.44.56: Created pakchunklayers.txt.
-02/05/2025 01.44.56: Modified DefaultGame.ini for chunking.
-02/05/2025 01.44.56: Compression enabled (-compressed).
-02/05/2025 01.44.56: Running UAT in debug mode with pause.
-02/05/2025 01.44.59: UAT process finished.
-02/05/2025 01.44.59: Opened Output folder.
-02/05/2025 01.45.01: Configuration saved.
-02/05/2025 01.45.54: Starting packaging process...
-02/05/2025 01.45.54: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 01.45.54: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 01.45.54: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 01.45.54: Created pakchunk423.txt with 1 entries.
-02/05/2025 01.45.54: Created pakchunklist.txt.
-02/05/2025 01.45.54: Created pakchunklayers.txt.
-02/05/2025 01.45.54: Modified DefaultGame.ini for chunking.
-02/05/2025 01.45.54: Compression enabled (-compressed).
-02/05/2025 01.45.54: Running UAT in debug mode with pause.
-02/05/2025 01.46.43: UAT process finished.
-02/05/2025 01.54.05: Configuration saved.
-02/05/2025 02.00.12: Starting packaging process...
-02/05/2025 02.00.12: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.00.12: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.00.12: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.00.12: Created pakchunk423.txt with 1 entries.
-02/05/2025 02.00.12: Created pakchunklist.txt.
-02/05/2025 02.00.12: Created pakchunklayers.txt.
-02/05/2025 02.00.12: Modified DefaultGame.ini for chunking.
-02/05/2025 02.00.12: Compression enabled (-compressed).
-02/05/2025 02.00.12: Running UAT in debug mode with pause.
-02/05/2025 02.00.39: UAT process finished.
-02/05/2025 02.00.40: Configuration saved.
-02/05/2025 02.02.05: Starting packaging process...
-02/05/2025 02.02.05: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.02.05: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.02.05: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.02.05: Created pakchunk423.txt with 1 entries.
-02/05/2025 02.02.05: Created pakchunklist.txt.
-02/05/2025 02.02.05: Created pakchunklayers.txt.
-02/05/2025 02.02.05: Modified DefaultGame.ini for chunking.
-02/05/2025 02.02.05: Compression enabled (-compressed).
-02/05/2025 02.02.05: Running UAT in debug mode with pause.
-02/05/2025 02.06.28: UAT process finished.
-02/05/2025 02.06.30: Configuration saved.
-02/05/2025 02.07.02: Starting packaging process...
-02/05/2025 02.07.02: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.07.02: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.07.02: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
-02/05/2025 02.07.02: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.07.02: Created pakchunklist.txt.
-02/05/2025 02.07.02: Created pakchunklayers.txt.
-02/05/2025 02.07.02: Modified DefaultGame.ini for chunking.
-02/05/2025 02.07.02: Compression enabled (-compressed).
-02/05/2025 02.07.02: Running UAT in debug mode with pause.
-02/05/2025 02.08.44: UAT process finished.
-02/05/2025 02.08.46: Configuration saved.
-02/05/2025 02.08.48: Starting packaging process...
-02/05/2025 02.08.48: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.08.48: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.08.48: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
-02/05/2025 02.08.48: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.08.48: Created pakchunklist.txt.
-02/05/2025 02.08.48: Created pakchunklayers.txt.
-02/05/2025 02.08.48: Modified DefaultGame.ini for chunking.
-02/05/2025 02.08.48: Compression enabled (-compressed).
-02/05/2025 02.08.48: Running UAT in debug mode with pause.
-02/05/2025 02.09.02: UAT process finished.
-02/05/2025 02.09.03: Configuration saved.
-02/05/2025 02.09.28: Starting packaging process...
-02/05/2025 02.09.28: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.09.28: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.09.28: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
-02/05/2025 02.09.28: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.09.28: Created pakchunklist.txt.
-02/05/2025 02.09.28: Created pakchunklayers.txt.
-02/05/2025 02.09.28: Modified DefaultGame.ini for chunking.
-02/05/2025 02.09.28: Compression enabled (-compressed).
-02/05/2025 02.09.28: Running UAT in debug mode with pause.
-02/05/2025 02.09.40: UAT process finished.
-02/05/2025 02.21.55: Configuration saved.
-02/05/2025 02.24.13: Starting packaging process...
-02/05/2025 02.24.13: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.24.13: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.24.13: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.24.13: Created pakchunk.txt with 1 entries.
-02/05/2025 02.24.13: Created pakchunklist.txt.
-02/05/2025 02.24.13: Created pakchunklayers.txt.
-02/05/2025 02.24.13: Modified DefaultGame.ini for chunking.
-02/05/2025 02.24.13: Compression enabled (-compressed).
-02/05/2025 02.24.13: Running UAT in debug mode with pause.
-02/05/2025 02.24.26: UAT process finished.
-02/05/2025 02.24.29: Configuration saved.
-02/05/2025 02.24.38: Starting packaging process...
-02/05/2025 02.24.38: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.24.38: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.24.38: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
-02/05/2025 02.24.38: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.24.38: Created pakchunklist.txt.
-02/05/2025 02.24.38: Created pakchunklayers.txt.
-02/05/2025 02.24.38: Modified DefaultGame.ini for chunking.
-02/05/2025 02.24.38: Compression enabled (-compressed).
-02/05/2025 02.24.38: Running UAT in debug mode with pause.
-02/05/2025 02.24.46: UAT process finished.
-02/05/2025 02.24.47: Configuration saved.
-02/05/2025 02.24.49: Starting packaging process...
-02/05/2025 02.24.49: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.24.49: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.24.49: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.24.49: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.24.49: Created pakchunklist.txt.
-02/05/2025 02.24.49: Created pakchunklayers.txt.
-02/05/2025 02.24.49: Modified DefaultGame.ini for chunking.
-02/05/2025 02.24.49: Compression enabled (-compressed).
-02/05/2025 02.24.49: Running UAT in debug mode with pause.
-02/05/2025 02.25.02: UAT process finished.
-02/05/2025 02.25.14: Configuration saved.
-02/05/2025 02.26.28: Starting packaging process...
-02/05/2025 02.26.28: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.26.28: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.26.28: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.26.28: Cleaned Cooked folder.
-02/05/2025 02.26.28: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.26.28: Created pakchunklist.txt.
-02/05/2025 02.26.28: Created pakchunklayers.txt.
-02/05/2025 02.26.28: Modified DefaultGame.ini for chunking.
-02/05/2025 02.26.28: Compression enabled (-compressed).
-02/05/2025 02.26.28: Running UAT in debug mode with pause.
-02/05/2025 02.26.38: UAT process finished.
-02/05/2025 02.26.38: Opened Output folder.
-02/05/2025 02.26.40: Configuration saved.
-02/05/2025 02.29.30: Starting packaging process...
-02/05/2025 02.29.30: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.29.30: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.29.30: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.29.30: Cleaned Cooked folder.
-02/05/2025 02.29.30: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.29.30: Created pakchunklist.txt.
-02/05/2025 02.29.30: Created pakchunklayers.txt.
-02/05/2025 02.29.30: Modified DefaultGame.ini for chunking.
-02/05/2025 02.29.30: Compression enabled (-compressed).
-02/05/2025 02.29.30: Running UAT in debug mode with pause.
-02/05/2025 02.29.43: UAT process finished.
-02/05/2025 02.29.43: Opened Output folder.
-02/05/2025 02.29.44: Configuration saved.
-02/05/2025 02.29.50: Starting packaging process...
-02/05/2025 02.29.50: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.29.50: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.29.50: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
-02/05/2025 02.29.50: Cleaned Cooked folder.
-02/05/2025 02.29.50: Cleaned Output folder.
-02/05/2025 02.29.50: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.29.50: Created pakchunklist.txt.
-02/05/2025 02.29.50: Created pakchunklayers.txt.
-02/05/2025 02.29.50: Modified DefaultGame.ini for chunking.
-02/05/2025 02.29.50: Compression enabled (-compressed).
-02/05/2025 02.29.50: Running UAT in debug mode with pause.
-02/05/2025 02.30.01: UAT process finished.
-02/05/2025 02.30.01: Opened Output folder.
-02/05/2025 02.30.05: Configuration saved.
-02/05/2025 02.30.10: Starting packaging process...
-02/05/2025 02.30.10: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.30.10: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.30.10: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\WindowsNoEditor\Marvel\Content
-02/05/2025 02.30.10: Cleaned Cooked folder.
-02/05/2025 02.30.10: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.30.10: Created pakchunklist.txt.
-02/05/2025 02.30.10: Created pakchunklayers.txt.
-02/05/2025 02.30.10: Modified DefaultGame.ini for chunking.
-02/05/2025 02.30.10: Compression enabled (-compressed).
-02/05/2025 02.30.10: Running UAT in debug mode with pause.
-02/05/2025 02.30.24: UAT process finished.
-02/05/2025 02.30.24: Opened Output folder.
-02/05/2025 02.30.27: Configuration saved.
-02/05/2025 02.33.03: Using platform name: Windows
-02/05/2025 02.33.03: Starting packaging process...
-02/05/2025 02.33.03: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
-02/05/2025 02.33.03: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
-02/05/2025 02.33.03: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
-02/05/2025 02.33.03: Cleaned Cooked folder.
-02/05/2025 02.33.03: Cleaned Output folder.
-02/05/2025 02.33.03: Created pakchunk424.txt with 1 entries.
-02/05/2025 02.33.03: Created pakchunklist.txt.
-02/05/2025 02.33.03: Created pakchunklayers.txt.
-02/05/2025 02.33.03: Modified DefaultGame.ini for chunking.
-02/05/2025 02.33.03: Compression enabled (-compressed).
-02/05/2025 02.33.03: Running UAT in debug mode with pause.
-02/05/2025 02.33.07: UAT process finished.
-02/05/2025 02.33.07: Opened Output folder.
-02/05/2025 02.33.11: Configuration saved.
-02/05/2025 02.56.45: Using platform name: WindowsNoEditor
-02/05/2025 02.56.45: Starting packaging process...
-02/05/2025 02.56.45: Unreal Engine Path: T:\Tools\UnrealEngine\UE-4.25-plus-stripped
-02/05/2025 02.56.45: Project Path: T:\Modding\Gotham Knights\Kitchen\IOStorePak Project\Mercury\Mercury.uproject
-02/05/2025 02.56.45: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\IOStorePak Project\Mercury\Saved\Cooked\WindowsNoEditor\Mercury\Content
-02/05/2025 02.56.45: Cleaned Cooked folder.
-02/05/2025 02.56.45: Created pakchunk424.txt with 11 entries.
-02/05/2025 02.56.45: Created pakchunklist.txt.
-02/05/2025 02.56.45: Created pakchunklayers.txt.
-02/05/2025 02.56.45: Modified DefaultGame.ini for chunking.
-02/05/2025 02.56.45: Compression enabled (-compressed).
-02/05/2025 02.56.45: Running UAT in debug mode with pause.
-02/05/2025 02.57.11: UAT process finished.
-02/05/2025 02.57.11: Opened Output folder.
-02/05/2025 02.57.12: Configuration saved.
-02/05/2025 02.57.32: Using platform name: WindowsNoEditor
-02/05/2025 02.57.32: Starting packaging process...
-02/05/2025 02.57.32: Unreal Engine Path: T:\Tools\UnrealEngine\UE-4.25-plus-stripped
-02/05/2025 02.57.32: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury - Fresh\Mercury.uproject
-02/05/2025 02.57.32: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury - Fresh\Saved\Cooked\WindowsNoEditor\Mercury\Content
-02/05/2025 02.57.32: Created pakchunk424.txt with 11 entries.
-02/05/2025 02.57.32: Created pakchunklist.txt.
-02/05/2025 02.57.32: Created pakchunklayers.txt.
-02/05/2025 02.57.32: Modified DefaultGame.ini for chunking.
-02/05/2025 02.57.32: Compression enabled (-compressed).
-02/05/2025 02.57.32: Running UAT in debug mode with pause.
-02/05/2025 02.57.58: UAT process finished.
-02/05/2025 02.57.58: Opened Output folder.
-02/05/2025 02.58.01: Configuration saved.
-02/05/2025 02.58.58: Using platform name: WindowsNoEditor
-02/05/2025 02.58.58: Starting packaging process...
-02/05/2025 02.58.58: Unreal Engine Path: T:\Tools\UnrealEngine\UE-4.25-plus-stripped
-02/05/2025 02.58.58: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
-02/05/2025 02.58.58: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
-02/05/2025 02.58.58: Cleaned Cooked folder.
-02/05/2025 02.58.58: Cleaned Output folder.
-02/05/2025 02.58.58: Created pakchunk424.txt with 11 entries.
-02/05/2025 02.58.58: Created pakchunklist.txt.
-02/05/2025 02.58.58: Created pakchunklayers.txt.
-02/05/2025 02.58.58: Modified DefaultGame.ini for chunking.
-02/05/2025 02.58.58: Compression enabled (-compressed).
-02/05/2025 02.58.58: Running UAT in debug mode with pause.
-02/05/2025 02.59.23: UAT process finished.
-02/05/2025 02.59.23: Opened Output folder.
-02/05/2025 02.59.40: Configuration saved.
+03/05/2025 01.43.54: Using platform name: WindowsNoEditor
+03/05/2025 01.43.54: Starting packaging process...
+03/05/2025 01.43.54: Unreal Engine Path: T:\Tools\UnrealEngine\UnrealEngine-4.25-plus
+03/05/2025 01.43.54: Project Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Mercury.uproject
+03/05/2025 01.43.54: Cooked Base Path: T:\Modding\Gotham Knights\Kitchen\Mercury Template\Saved\Cooked\WindowsNoEditor\Mercury\Content
+03/05/2025 01.43.54: Cleaned Cooked folder.
+03/05/2025 01.43.54: Cleaned Output folder.
+03/05/2025 01.43.54: Created pakchunk925.txt with 11 entries.
+03/05/2025 01.43.54: Created pakchunklist.txt.
+03/05/2025 01.43.54: Created pakchunklayers.txt.
+03/05/2025 01.43.54: Modified DefaultGame.ini for chunking.
+03/05/2025 01.43.54: Compression enabled (-compressed).
+03/05/2025 01.43.54: Running UAT in debug mode with pause.
+03/05/2025 01.44.22: UAT process finished.
+03/05/2025 01.44.22: Opened Output folder.
+03/05/2025 01.44.27: Configuration saved.
+03/05/2025 01.47.59: Using platform name: Windows
+03/05/2025 01.47.59: Starting packaging process...
+03/05/2025 01.47.59: Unreal Engine Path: T:\Tools\UnrealEngine\Epic\UE_5.3
+03/05/2025 01.47.59: Project Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Marvel.uproject
+03/05/2025 01.47.59: Cooked Base Path: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content
+03/05/2025 01.47.59: Cleaned Cooked folder.
+03/05/2025 01.47.59: Cleaned Output folder.
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Arm.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Body.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Eyes.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Gloves.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Head.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Pants.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001_Lobby.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_Eyes.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_EyesN.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_D.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_N.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_ORM.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_S.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_D.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_N.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_ORM.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_D.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_N.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_ORM.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_S.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_N.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_ORM.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_S.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_D.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_N.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_ORM.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_S.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Hair_D.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_D.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_N.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_ORM.uasset
+03/05/2025 01.47.59: Injected dummy file: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_S.uasset
+03/05/2025 01.47.59: Copied dummy scriptobjects.bin to Metadata folder.
+03/05/2025 01.47.59: Created pakchunk925.txt with 33 entries.
+03/05/2025 01.47.59: Created pakchunklist.txt.
+03/05/2025 01.47.59: Created pakchunklayers.txt.
+03/05/2025 01.47.59: Modified DefaultGame.ini for chunking.
+03/05/2025 01.47.59: UE5 Format: Cooking and staging but replacing before package.
+03/05/2025 01.47.59: Compression enabled (-compressed).
+03/05/2025 01.47.59: Running UAT in debug mode with pause.
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Arm.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Body.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Eyes.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Gloves.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Head.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Pants.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001_Lobby.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_Eyes.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_EyesN.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_D.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_N.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_ORM.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_S.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_D.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_N.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_ORM.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_D.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_N.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_ORM.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_S.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_N.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_ORM.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_S.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_D.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_N.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_ORM.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_S.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Hair_D.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_D.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_N.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_ORM.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_S.uasset
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Arm.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Body.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Eyes.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Gloves.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Head.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Pants.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001_Lobby.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_Eyes.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_EyesN.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_D.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_N.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_ORM.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_S.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_D.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_N.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_ORM.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_D.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_N.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_ORM.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_S.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_N.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_ORM.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_S.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_D.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_N.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_ORM.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_S.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Hair_D.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_D.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_N.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_ORM.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_S.uexp
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_Eyes.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_EyesN.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_D.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_N.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_ORM.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_S.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_D.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_N.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_ORM.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_D.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_N.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_ORM.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_S.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_N.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_ORM.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_S.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_D.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_N.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_ORM.ubulk
+03/05/2025 01.47.59: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_S.ubulk
+03/05/2025 01.48.00: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Hair_D.ubulk
+03/05/2025 01.48.00: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_D.ubulk
+03/05/2025 01.48.00: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_N.ubulk
+03/05/2025 01.48.00: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_ORM.ubulk
+03/05/2025 01.48.00: Copied cooked asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Saved\Cooked\Windows\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_S.ubulk
+03/05/2025 01.48.00: Recreated chunk file contents during UAT, with 33 entries.
+03/05/2025 01.48.28: UAT process finished.
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Arm.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Body.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Eyes.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Gloves.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Head.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Materials\CMI_Flatline_Pants.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Meshes\SK_1041_1041001_Lobby.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_Eyes.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\Flatline_EyesN.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_D.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_N.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_ORM.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Body_S.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_D.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_N.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_01_ORM.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_D.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_N.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_ORM.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_02_S.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_N.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_ORM.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_03_S.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_D.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_N.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_ORM.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Equip_05_S.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Hair_D.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_D.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_N.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_ORM.uasset
+03/05/2025 01.48.28: Deleted dummy asset: T:\Modding\Marvel Rivals\Kitchen\Marvel Package\Marvel\Content\Marvel\Characters\1041\1041001\Textures\T_1041001_Head_S.uasset
+03/05/2025 01.48.28: Opened Output folder.
+03/05/2025 01.48.31: Configuration saved.

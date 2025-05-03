@@ -6,6 +6,8 @@ using System.Windows.Forms;
 using Newtonsoft.Json;
 using System.Drawing;
 using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Threading;
 
 namespace IOStorePak
 {
@@ -261,6 +263,9 @@ namespace IOStorePak
             string pakchunkListPath = Path.Combine(tmpPackagingWindowsPath, "pakchunklist.txt");
             string pakchunk0Path = Path.Combine(tmpPackagingWindowsPath, "pakchunk0.txt");
             string pakchunkLayersPath = Path.Combine(tmpPackagingWindowsPath, "pakchunklayers.txt");
+            string contentRoot = Path.Combine(projectDir, "Content");
+            string dummySourceFolder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Resources");
+            List<string> injectedDummyPaths = new List<string>();
 
             Log($"Using platform name: {GetPlatformName()}");
             Log("Starting packaging process...");
@@ -333,27 +338,62 @@ namespace IOStorePak
             // Process each selected asset
             foreach (var asset in assetsPath)
             {
-                // Ensure "Content" only appears once in the path
                 int contentIndex = asset.IndexOf("Content", StringComparison.OrdinalIgnoreCase);
                 string relativePath = asset.Substring(contentIndex + "Content".Length).TrimStart('\\', '/');
-
+                string assetName = Path.GetFileNameWithoutExtension(relativePath);
                 string destinationPath = Path.Combine(cookedBasePath, relativePath);
-
-                // Ensure the destination directory exists
                 string destinationDir = Path.GetDirectoryName(destinationPath);
-                if (!Directory.Exists(destinationDir))
-                {
-                    Directory.CreateDirectory(destinationDir);
-                }
 
-                // Copy the asset to the Cooked folder
+                Directory.CreateDirectory(destinationDir);
                 File.Copy(asset, destinationPath, true);
 
-                // Add the full path (without extension) to the pakchunk list
                 string pakchunkEntry = destinationPath.Replace(Path.GetExtension(asset), "");
                 if (!pakchunkEntries.Contains(pakchunkEntry))
-                {
                     pakchunkEntries.Add(pakchunkEntry);
+
+                // Inject dummy assets for UE5
+                if (chkUseUE5.Checked)
+                {
+                    string projectAssetFolder = Path.Combine(contentRoot, Path.GetDirectoryName(relativePath));
+                    Directory.CreateDirectory(projectAssetFolder);
+
+                    string baseTargetPath = Path.Combine(projectAssetFolder, assetName);
+                    string originalUAsset = baseTargetPath + ".uasset";
+
+                    if (!File.Exists(originalUAsset))
+                    {
+                        bool hasUBulk = File.Exists(asset.Replace(".uasset", ".ubulk"));
+                        string dummyPrefix = hasUBulk ? "dummy_with_ubulk" : "dummy";
+
+                        foreach (var ext in new[] { ".uasset", ".uexp", ".ubulk" })
+                        {
+                            string dummyFile = Path.Combine(dummySourceFolder, dummyPrefix + ext);
+                            string targetFile = baseTargetPath + ext;
+
+                            if (File.Exists(dummyFile) && !File.Exists(targetFile))
+                            {
+                                File.Copy(dummyFile, targetFile);
+                                injectedDummyPaths.Add(targetFile);
+                                Log($"Injected dummy file: {targetFile}");
+                            }
+                        }
+                    }
+                }
+            }
+
+            string metadataPath = Path.Combine(projectDir, "Saved", "Cooked", GetPlatformName(), projectDirName, "Metadata");
+            Directory.CreateDirectory(metadataPath);
+
+            // If UE5 format, copy scriptobjects.bin before cooking
+            string dummyScriptBin = Path.Combine(dummySourceFolder, "scriptobjects.bin");
+            string targetScriptBin = Path.Combine(metadataPath, "scriptobjects.bin");
+
+            if (chkUseUE5.Checked)
+            {
+                if (File.Exists(dummyScriptBin))
+                {
+                    File.Copy(dummyScriptBin, targetScriptBin, true);
+                    Log("Copied dummy scriptobjects.bin to Metadata folder.");
                 }
             }
 
@@ -382,7 +422,82 @@ namespace IOStorePak
 
             // Run the UAT command with visible window
             string runUAT = Path.Combine(txtUEPath.Text, "Engine", "Build", "BatchFiles", "RunUAT.bat");
-            string arguments = $"BuildCookRun -project=\"{txtProjectPath.Text}\" -skipcook -pak -iostore -skipstage";
+            string arguments = $"BuildCookRun -project=\"{txtProjectPath.Text}\" -pak -iostore -skipstage";
+            if (!chkUseUE5.Checked)
+                arguments = arguments.Insert(arguments.IndexOf("-pak"), "-skipcook ");
+
+            CancellationTokenSource cookCopyToken = null;
+            Task copyTask = null;
+
+            if (chkUseUE5.Checked)
+            {
+                // Modify DefaultEngine.ini
+                string defaultEngineIniPath = Path.Combine(projectDir, "Config", "DefaultEngine.ini");
+                EnsureDefaultEngineIniConfig(defaultEngineIniPath);
+                Log("Modified DefaultEngine.ini");
+
+                arguments = arguments.Insert(arguments.IndexOf("-pak"), "-cook ");
+                Log("UE5 Format: Cooking and staging but replacing before package.");
+                cookCopyToken = new CancellationTokenSource();
+                var token = cookCopyToken.Token;
+
+                copyTask = Task.Run(() =>
+                {
+                    var writtenCookedPaths = new HashSet<string>();
+                    var writtenChunkEntries = new HashSet<string>();
+                    bool chunkFilesReady = false;
+
+                    // In-memory chunk file contents
+                    List<string> chunkFileLines = new List<string>();
+                    string[] chunkListLines = null;
+                    string[] chunkLayersLines = null;
+
+                    while (!token.IsCancellationRequested)
+                    {
+                        try
+                        {
+                            foreach (var asset in assetsPath)
+                            {
+                                int contentIndex = asset.IndexOf("Content", StringComparison.OrdinalIgnoreCase);
+                                string relativePath = asset.Substring(contentIndex + "Content".Length).TrimStart('\\', '/');
+                                string cookedTarget = Path.Combine(cookedBasePath, relativePath);
+                                Directory.CreateDirectory(Path.GetDirectoryName(cookedTarget));
+                                File.Copy(asset, cookedTarget, true);
+
+                                if (writtenCookedPaths.Add(cookedTarget))
+                                {
+                                    Log($"Copied cooked asset: {cookedTarget}");
+                                }
+
+                                string chunkEntry = cookedTarget.Replace(Path.GetExtension(asset), "");
+                                writtenChunkEntries.Add(chunkEntry);
+                            }
+
+                            // Prepare chunk file content (one-time snapshot)
+                            if (!chunkFilesReady && writtenChunkEntries.Count > 0)
+                            {
+                                chunkFileLines = writtenChunkEntries.ToList();
+                                chunkListLines = new[] { "pakchunk0.txt", $"pakchunk{txtChunkNumber.Text}.txt" };
+                                chunkLayersLines = new[] { "0", "0" };
+                                chunkFilesReady = true;
+
+                                Log($"Recreated chunk file contents during UAT, with {chunkFileLines.Count} entries.");
+                            }
+
+                            // Continuously write chunk files if they are ready
+                            if (chunkFilesReady)
+                            {
+                                File.WriteAllLines(pakchunkPath, chunkFileLines);
+                                File.WriteAllLines(pakchunkListPath, chunkListLines);
+                                File.WriteAllLines(pakchunkLayersPath, chunkLayersLines);
+                            }
+                        }
+                        catch { /* Suppress errors during rapid access */ }
+
+                        Thread.Sleep(300); // Copy every 300ms
+                    }
+                });
+            }
 
             if (chkCompression.Checked)
             {
@@ -403,7 +518,25 @@ namespace IOStorePak
             };
             var process = Process.Start(processInfo);
             process.WaitForExit();
+            cookCopyToken?.Cancel();
+            copyTask?.Wait();
             Log("UAT process finished.");
+
+            foreach (var path in injectedDummyPaths.Distinct())
+            {
+                try
+                {
+                    if (File.Exists(path))
+                    {
+                        File.Delete(path);
+                        Log($"Deleted dummy asset: {path}");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Log($"Failed to delete dummy asset: {path} - {ex.Message}");
+                }
+            }
 
             // Open the folder with the packaged assets if checkbox is checked
             if (chkOpenOutput.Checked)
@@ -477,6 +610,35 @@ namespace IOStorePak
                 "bShouldGuessTypeAndNameInEditor=True",
                 "bShouldAcquireMissingChunksOnLoad=False",
                 "MetaDataTagsForAssetRegistry=()"
+            };
+
+            // Check if each config entry is already present, if not, add it
+            foreach (var entry in configEntries)
+            {
+                if (!lines.Any(line => line.Trim().Equals(entry, StringComparison.OrdinalIgnoreCase)))
+                {
+                    lines.Add(entry);
+                }
+            }
+
+            // Write back the modified content to DefaultGame.ini
+            File.WriteAllLines(iniFilePath, lines);
+        }
+
+        private void EnsureDefaultEngineIniConfig(string iniFilePath)
+        {
+            // Check if DefaultGame.ini exists
+            if (!File.Exists(iniFilePath))
+            {
+                MessageBox.Show("DefaultGame.ini not found in the Config folder.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            var lines = File.ReadAllLines(iniFilePath).ToList();
+            var configEntries = new List<string>
+            {
+                "[Core.System]",
+                "CanUseUnversionedPropertySerialization=False"
             };
 
             // Check if each config entry is already present, if not, add it

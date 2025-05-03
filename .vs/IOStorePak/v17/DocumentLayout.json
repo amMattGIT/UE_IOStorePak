@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "T:\\Code\\Source\\IOStorePak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|solutionrelative:iostorepak\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C0B934C-C91E-4386-907F-04E43572AA65}|IOStorePak\\IOStorePak.csproj|t:\\code\\source\\iostorepak\\iostorepak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,17 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.cs",
               "RelativeDocumentMoniker": "IOStorePak\\MainForm.cs",
               "ToolTip": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.cs",
               "RelativeToolTip": "IOStorePak\\MainForm.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAAA8BAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAAAOQBAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T00:25:24.797Z",
               "EditorCaption": ""
@@ -68,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "IOStorePak\\MainForm.Designer.cs",
               "ToolTip": "T:\\Code\\Source\\IOStorePak\\IOStorePak\\MainForm.Designer.cs",
               "RelativeToolTip": "IOStorePak\\MainForm.Designer.cs",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAQwAsBAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAQwAsBAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T00:15:47.338Z",
               "EditorCaption": ""
