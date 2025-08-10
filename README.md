@@ -6,6 +6,8 @@ The Nexus Mods page for this tool is [here](https://www.nexusmods.com/gothamknig
 
 The old/previous archived repo for this tool is [here](https://github.com/amMattGIT/iostorepak).
 
+---
+
 ## Requirements
 
 - A compiled build of Unreal Engine (4.25+ for Gotham Knights)
@@ -90,6 +92,6 @@ Will clean out the `Saved\StagedBuild` folder in your project, deleting previous
 
 Big credit to [@Phnx](https://next.nexusmods.com/profile/Phnx) for figuring out the automation tool could skip the cooking process for I/O store packaging. That's the whole reason I decided to create this tool.
 
-## If You'd Like to Support Me
+## If you'd like to support me
 
 My Patreon is [here](https://www.patreon.com/amMatt).
